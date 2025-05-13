@@ -17,9 +17,6 @@ This project is a **pure NumPy** implementation of a feedforward neural network 
 
 ---
 
-## File Structure
-
-
 ---
 
 ## Requirements
@@ -52,8 +49,6 @@ This project is a **pure NumPy** implementation of a feedforward neural network 
     After each epoch, it prints the test loss and accuracy.
 
 ---
-
-## Example Output
 
 
 ---
